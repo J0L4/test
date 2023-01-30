@@ -1,0 +1,36 @@
+
+
+body {
+  background-image: url('https://img.freepik.com/fotos-kostenlos/junge-menschen-die-an-antikriegsprotesten-teilnehmen_23-2149378338.jpg?w=996&t=st=1675105930~exp=1675106530~hmac=350964eb8debc9481ca4814314cb67e2baadc036c115707b550a63dff27c1317');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: lavenderblush;
+  font-size: x-large;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-decoration: underline;
+}
+
+p{
+	text-align: center;
+}
+
+
+img {
+
+	display: inline;
+
+}
+
+
+
+#p2 {
+	text-align: center;
+}
+
